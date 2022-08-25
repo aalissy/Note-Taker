@@ -38,7 +38,7 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
 ## Deployed Application
-https://glacial-sea-53378.herokuapp.com/notes (Links to an external site.)
+https://glacial-sea-53378.herokuapp.com/notes
 
 ## Screenshots
 <img width="1440" alt="Screen Shot 2022-08-25 at 5 40 19 PM" src="https://user-images.githubusercontent.com/32420245/186781272-afc3e4d5-e9d6-43ac-a95b-f5d77f8f3a95.png">
